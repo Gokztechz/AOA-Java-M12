@@ -2,7 +2,7 @@
 # EX 2A Assign Cookies using Greedy Algorithm. 
 ## NAME: GOKUL SHARAN R
 ## REG NO: 212223040052
-## DATE:28/08/25
+## DATE: 28/08/25
 ## AIM:
 To Write a Java program for the following Constraints.
 Assume you are an awesome parent and want to give your children some cookies. But, you should give each child at most one cookie.
