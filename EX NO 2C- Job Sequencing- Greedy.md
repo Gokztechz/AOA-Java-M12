@@ -1,5 +1,5 @@
 
-# EX 1C Job Sequencing using Greedy Approach
+# EX 2C Job Sequencing using Greedy Approach
 ## NAME: GOKUL SHARAN R
 ## REG NO: 212223040052
 ## DATE :01/09/25
